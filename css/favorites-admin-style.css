@@ -1,0 +1,11 @@
+.favorites-dash {
+	color:darkred;
+	font-weight: bolder;
+	
+}
+.favorites-dash:hover {
+	color:#cc0000;
+}
+.favorites-hidden {
+	display: none;
+}

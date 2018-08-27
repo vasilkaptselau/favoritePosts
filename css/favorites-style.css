@@ -1,0 +1,14 @@
+.favorites-hidden {
+	display: none;
+}
+.favorites-link a{
+	color: red;
+}
+#secondary.sidebar ul li span, #secondary.sidebar ul li a.favorites-dash {
+	color:darkred;
+	font-weight: bolder;
+	
+}
+#secondary.sidebar ul li span, #secondary.sidebar ul li a.favorites-dash:hover {
+	color:#000000;
+}
